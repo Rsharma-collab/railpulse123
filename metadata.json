@@ -1,0 +1,8 @@
+{
+  "name": "Remix  RailPulse - Railway Intelligence Platform",
+  "description": "Intelligent end-to-end railway journey and operations platform with live GPS tracking, signal congestion modeling, crew \u0026 rake readiness, explainable AI ETA engine, connection protection, and digital twin simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
